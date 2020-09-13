@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vancouver on Irina</title>
+    <link>https://irinaj.com/tags/vancouver/</link>
+    <description>Recent content in Vancouver on Irina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://irinaj.com/tags/vancouver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rafting in the lake</title>
+      <link>https://irinaj.com/rafting-in-the-lake-copy-2/</link>
+      <pubDate>Tue, 14 Jul 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://irinaj.com/rafting-in-the-lake-copy-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rafting in the lake</title>
+      <link>https://irinaj.com/rafting-in-the-lake-copy-3/</link>
+      <pubDate>Tue, 14 Jul 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://irinaj.com/rafting-in-the-lake-copy-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rafting in the lake</title>
+      <link>https://irinaj.com/rafting-in-the-lake-copy/</link>
+      <pubDate>Tue, 14 Jul 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://irinaj.com/rafting-in-the-lake-copy/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rafting in the lake</title>
+      <link>https://irinaj.com/rafting-in-the-lake/</link>
+      <pubDate>Tue, 14 Jul 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://irinaj.com/rafting-in-the-lake/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
